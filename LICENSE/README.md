@@ -1,1 +1,1 @@
-ด๚ย๋LICENSE
+ไปฃ็ LICENSE
