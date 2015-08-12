@@ -3,6 +3,12 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/LICENSE/README.md" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backup/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/conf/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dist/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ios/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/static/README.md" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/README.md" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
